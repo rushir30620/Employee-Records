@@ -1,2 +1,2 @@
 # Employee-Records
-This is an Employee Records a Node.js, Express.js, MongoDB, Bootstrap. 
+This is a simple website that displays Employee Records. Created using Node.js, Express.js, MongoDB, Bootstrap. 
